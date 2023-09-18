@@ -92,7 +92,7 @@
   }
 
   #progressBarFull {
-    height: 2.8rem; 
-    margin-top: 1rem; 
+    height: 3.8rem; 
+    width: 0%;
   }
 }
